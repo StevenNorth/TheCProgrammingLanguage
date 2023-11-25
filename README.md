@@ -1,4 +1,4 @@
-# TheCProgrammingLanguage
+# The C Programming Language
 All exercises performed while reading through the book of the same name by Brian W. Kernighan and Dennis M. Ritchie.
 
 The purpose of this repo is to practice using GitHub and learn C while reading The C Progamming Language Second Edition.
